@@ -1,0 +1,25 @@
+# Arquivos compilados
+*.class
+
+# Configurações do IDE IntelliJ IDEA / Eclipse / NetBeans
+.idea/
+*.iml
+*.classpath
+*.project
+.nb-gradle/
+.nbmetadata/
+
+# Dependências do Maven (diretório `target`)
+target/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e outros arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Backup
+*.bak
